@@ -24,3 +24,12 @@ gcc main.c TR5_537819.c -o nome-do-programa
 ```
 ./nome-do-programa
 ```
+## <b>Exemplo de compilação e execução do código:</b>
+```
+INCLUINDO... 
+VETOR DE 10 TAMANHO:
+ 90  80  50  60  70  10  40  0  30  20
+REMOVENDO!VETOR DE 9 TAMANHO:
+ 90  80  50  60  70  10  40  0  30
+```
+
