@@ -1,6 +1,6 @@
 # Heap
 ## <b>Sobre o código:</b> 
-- Esse código foi desenvolvido usando a Linguagem C, na disciplina de Laboratório de Programação orientada pelo professor >Marcio Costas Santos.
+- Esse código foi desenvolvido usando a Linguagem C, na disciplina de Laboratório de Programação orientada pelo professor Marcio Costas Santos.
 
 - <b>Problema apresentado pelo professor:</b> Em anexo está um código um arquivo .h que deve ter todas as suas funções implementadas em um
 arquivo .c. Cada um dos alunos deve implementar todas as funções de acordo com a descrição de seu
