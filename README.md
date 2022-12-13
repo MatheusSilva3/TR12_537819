@@ -1,5 +1,4 @@
 # Heap
-# Trabalho-4
 ## <b>Sobre o código:</b> 
 - Esse código foi desenvolvido usando a Linguagem C, na disciplina de Laboratório de Programação orientada pelo professor >Marcio Costas Santos.
 
