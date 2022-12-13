@@ -4,7 +4,7 @@
 
 - <b>Problema apresentado pelo professor:</b> Em anexo está um código um arquivo .h que deve ter todas as suas funções implementadas em um
 arquivo .c. Cada um dos alunos deve implementar todas as funções de acordo com a descrição de seu
-comportamento presente no arquivo e explicado em sala. No problema criamos uma heap, que é criada por quem usar o codico, e criar uma função para adicionar e remover valores da heap.
+comportamento presente no arquivo e explicado em sala. No problema criamos uma heap, que é criada por quem usar o codico, e criar uma função para adicionar e remover valores da heap. A função myCOMP do arquivo main.c é uma funçâo de teste, onde ela pode ter qualquer critério para ordenar a heap, se ouver outro criterio de ordenaçâo ela deve ser alterada.
 
 ## <b>Como baixar o código na sua máquina:</b>
 - Click no botao AQUI para fazer <b>Download</b> <b>[AQUI](https://github.com/MatheusSilva3/TR12_537819/archive/refs/heads/main.zip)</b>.
