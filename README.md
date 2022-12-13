@@ -14,7 +14,7 @@ comportamento presente no arquivo e explicado em sala. No problema criamos uma h
 
 - No mesmo diretório do arquivo baixado execute o seguinte comando no terminal:
 ```
-gcc main.c TR4_537819.c -o nome-do-programa
+gcc main.c TR5_537819.c -o nome-do-programa
 ```
 
 ## <b>Como executar o código:</b>
@@ -33,5 +33,3 @@ VETOR DE 10 TAMANHO:
 REMOVENDO!VETOR DE 9 TAMANHO:
  80  70  60  50  40  30  20  10  0
 ```
-
-### <b>Aproveite o código</b>✌️		
